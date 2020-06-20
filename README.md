@@ -48,3 +48,4 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 - bcrypt package (to hash passwords)
 - express-session &
 - connect-session-sequelize (packages to add authentication)
+- Application must be deployed to Heroku
