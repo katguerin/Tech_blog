@@ -1,0 +1,25 @@
+{
+  "name": "tech_blog",
+  "version": "1.0.0",
+  "description": "module 14 MVC hw",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katguerin/Tech_blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katguerin/Tech_blog/issues"
+  },
+  "homepage": "https://github.com/katguerin/Tech_blog#readme"
+}
