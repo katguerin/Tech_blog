@@ -12,3 +12,15 @@ router.put('/upvote', (req, res) => {
         });
     }
   });
+
+// missing other code from module 13
+//   Post.create({
+//     title: req.body.title,
+//     post_url: req.body.post_url,
+//     user_id: req.session.user_id
+//   })
+
+// missing other code from module 13
+// router.delete('/:id', withAuth, (req, res) => {
+//     // inner logic remains the same...
+//   });
